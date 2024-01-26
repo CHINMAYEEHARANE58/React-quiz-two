@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import '../resources/quizQuestion.json'
+import questions from '../resources/quizQuestion.json'
 
 export default class QuizComponent extends Component {
     constructor() {
